@@ -1,1 +1,1 @@
-# Password-Cracker-ALGO-MEDIUM
+# Password-Cracker-ALGO-MEDIUM.This solution uses dynamic programming with memoization to crack the login attempt by trying all password combinations from the given list, building the solution recursively and returning "WRONG PASSWORD" if no valid combination is found, efficiently reconstructing the original password sequence through backtracking.
